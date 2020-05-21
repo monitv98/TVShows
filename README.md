@@ -2,7 +2,6 @@
  🎥 📽 🎞 🎥 📽 🎞 🎥 📽 🎞 🎥 📽 🎞 🎥 📽 🎞 🎥 📽 🎞🎥 📽 🎞🎥 📽 🎞
 
 This is a project from a database of tv shows. It is made with BaseX. 
-It is in process so that it can be a complete crud 🔄
 
 [XML database series](https://github.com/monitv98/TVShows/blob/master/tvshows/TVShows.xml)
 
@@ -20,12 +19,15 @@ http://localhost:8984/series
 ## files 📄
 Here you will find shortcuts to the files 📥
 
-[index](https://github.com/monitv98/TVShows/blob/master/module1.xqml) - home with database with series list
+[index](https://github.com/monitv98/TVShows/blob/master/module1.xqm) - home with database with series list
 
 [FIND](https://github.com/monitv98/TVShows/blob/master/module3.xqm) - consultation section
 
-[details](https://github.com/monitv98/TVShows/blob/master/module2.xqm) - search results
+[ADD](https://github.com/monitv98/TVShows/blob/master/module4.xqm) - add new content
 
+[update](https://github.com/monitv98/TVShows/blob/master/module5.xqm) - to update content
+
+[delete](https://github.com/monitv98/TVShows/blob/master/module6.xqm) - to delete content
 
 
 ## Built With 🛠️
