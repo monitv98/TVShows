@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<series>
+    <serie>
+        <name>Hollywood</name>
+        <año>2020</año>
+        <sinopsis>Un grupo de aspirantes a actores y cineastas en Hollywood después de la Segunda Guerra Mundial intentan triunfar, sin importar el costo.</sinopsis>
+        <poster>https://m.media-amazon.com/images/M/MV5BODc5ZDZmNTEtZDJjZC00ZmMzLWJlZWQtOWNiODI5YjE0YzBmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX675_AL_.jpg</poster>
+    </serie>
+    <serie>
+        <name>La casa de papel</name>
+        <año>2017</año>
+        <sinopsis>Un grupo inusual de ladrones intenta llevar a cabo el robo más perfecto de la historia española: robar 2.400 millones de euros de la Royal Mint de España.</sinopsis>
+        <poster>https://m.media-amazon.com/images/M/MV5BZDcxOGI0MDYtNTc5NS00NDUzLWFkOTItNDIxZjI0OTllNTljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,674,1000_AL_.jpg</poster>
+    </serie>
+    <serie>
+        <name>Lucifer</name>
+        <año>2016</año>
+        <sinopsis>Lucifer Morningstar ha decidido que ha tenido suficiente de ser el sirviente obediente en el Infierno y decide pasar un tiempo en la Tierra para comprender mejor a la humanidad. Se instala en Los Ángeles, la ciudad de los ángeles.</sinopsis>
+        <poster>https://m.media-amazon.com/images/M/MV5BZTA2NTBkYWUtMzM4Zi00YzhlLTk4NWItY2U1ODczNDMyNDAzXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_CR0,0,675,1000_AL_.jpg</poster>
+    </serie>
+    <serie>
+        <name>Mr. Robot</name>
+        <año>2015</año>
+        <sinopsis>Elliot, un joven ingeniero de ciberseguridad brillante y altamente inestable y hacker vigilante, se convierte en una figura clave en un complejo juego de dominación global cuando él y sus aliados sombríos intentan derribar a la corporación corrupta para la que trabaja.</sinopsis>
+        <poster>https://m.media-amazon.com/images/M/MV5BMzgxMmQxZjQtNDdmMC00MjRlLTk1MDEtZDcwNTdmOTg0YzA2XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_SY1000_CR0,0,666,1000_AL_.jpg</poster>
+    </serie>
+    <serie>
+        <name>The End of the F***ing World</name>
+        <año>2017</año>
+        <sinopsis>James tiene 17 años y está bastante seguro de que es un psicópata. Alyssa, también de 17 años, es la nueva y genial chica de la escuela. La pareja hace una conexión y ella lo convence de embarcarse en un viaje por carretera en busca de su verdadero padre.</sinopsis>
+        <poster>https://m.media-amazon.com/images/M/MV5BN2ZhNmQ2MjQtMmQzMi00YjE5LTlkMWMtMjk5YzIxMjk2NDc2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX800_AL_.jpg</poster>
+    </serie>
+    <serie>
+        <name>Stranger Things</name>
+        <año>2016</año>
+        <sinopsis>Cuando un niño desaparece, su madre, un jefe de policía y sus amigos deben enfrentar fuerzas terroríficas sobrenaturales para recuperarlo.</sinopsis>
+        <poster>https://m.media-amazon.com/images/M/MV5BZGExYjQzNTQtNGNhMi00YmY1LTlhY2MtMTRjODg3MjU4YTAyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg</poster>
+    </serie>
+    <serie>
+        <name>Good Omens</name>
+        <año>2019</año>
+        <sinopsis>Un cuento sobre la confusión de Armagedón presenta a un ángel, un demonio, un Anticristo de once años y una bruja que dice fatalidad.</sinopsis>
+        <poster>https://m.media-amazon.com/images/M/MV5BOTI5Y2M3NmQtNDg5ZC00OTQ0LWEzOGYtMjM4Zjg0YzY0M2I0XkEyXkFqcGdeQXVyNjkwNzEwMzU@._V1_SY1000_SX675_AL_.jpg</poster>
+    </serie>
+    <serie>
+        <name>Once Upon a Time</name>
+        <año>2011</año>
+        <sinopsis>Una mujer joven con un pasado problemático se siente atraída por un pequeño pueblo de Maine donde se creen los cuentos de hadas.</sinopsis>
+        <poster>https://m.media-amazon.com/images/M/MV5BNjBmZmI0ZDktODI2MS00MDU1LTk0NDYtNGE0MDc0OWVkYzcwXkEyXkFqcGdeQXVyMzAzNTY3MDM@._V1_SY1000_SX675_AL_.jpg</poster>
+    </serie>
+    <serie>
+        <name>Prison Break</name>
+        <año>2005</año>
+        <sinopsis>Debido a una conspiración política, un inocente es enviado al corredor de la muerte y su única esperanza es su hermano, quien hace su misión hacerse enviar deliberadamente a la misma prisión para sacarlos a ambos del interior.</sinopsis>
+        <poster>https://m.media-amazon.com/images/M/MV5BMTg3NTkwNzAxOF5BMl5BanBnXkFtZTcwMjM1NjI5MQ@@._V1_.jpg</poster>
+    </serie>
+    <serie>
+        <name>Outlander</name>
+        <año>2014</año>
+        <sinopsis>Una enfermera de combate inglesa de 1945 es misteriosamente arrastrada en el tiempo hasta 1743.</sinopsis>
+        <poster>https://m.media-amazon.com/images/M/MV5BNzE3ZTYxZWYtMjQ1Ny00MzFhLWI1MGMtMDZmMzYwYjc1OWQ0XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SY1000_CR0,0,562,1000_AL_.jpg</poster>
+    </serie>
+    <serie>
+        <name>The Politician</name>
+        <año>2019</año>
+        <sinopsis>Payton Hobart, un estudiante de Santa Bárbara, sabe desde los siete años que será presidente de los Estados Unidos. Pero primero tendrá que navegar por el panorama político más traicionero de todos: Saint Sebastian High School.</sinopsis>
+        <poster>https://m.media-amazon.com/images/M/MV5BYjJmOTBhZmMtOTY0NC00ODQyLWJkNTctMGYxMmU5N2M3NDJhXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_CR0,0,675,1000_AL_.jpg</poster>
+    </serie>
+</series>
